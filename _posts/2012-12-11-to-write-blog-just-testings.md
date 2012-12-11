@@ -1,0 +1,14 @@
+---
+
+layout : post
+
+category : tech
+
+tags : [git, 版本控制系统, 在线代码托管, 个人博客, 建博客]
+
+title : My 1st Blog by github!
+
+---
+# This is my 1st Blog by github!
+
+- Thx!
