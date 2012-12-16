@@ -14,7 +14,8 @@ title : Markdown语法
 
 # 致谢
 
-- 站在这位 *[巨人](http://markdown.tw/)* 的肩膀上 还有[samrain](http://samrain.github.com/)
+- 站在这位 *[巨人](http://markdown.tw/)* 的肩膀上 
+- 作者[samrain](http://samrain.github.com/)
 
 # 直接使用HTML
 
