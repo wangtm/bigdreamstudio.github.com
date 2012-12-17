@@ -12,7 +12,7 @@ title : 看透人心(方法篇)
 
 [思维导图文件阅读](https://www.mindmeister.com/external/drive/do_open?file_id=0B6K98da0px63Y2gyaTBqYmlfbGc)
 
-# # 解决方案：三听
+## 解决方案：三听
 
     - 听动机
 
